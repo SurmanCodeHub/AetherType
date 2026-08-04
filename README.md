@@ -4,8 +4,6 @@ AetherType is an interactive, browser-based kinetic typography and particle-phys
 
 > **AetherType** is an interactive, browser-based kinetic typography and particle-physics simulation engine built entirely with vanilla web technologies. Part of the **Surman Code Hub** open-source initiative.
 
-![AetherType Preview](https://github.com/SurmanCodeHub/AetherType/raw/main/preview.png)
-
 ## 🌐 Live Demo
 Experience it live in your browser: [https://surmancodehub.github.io/AetherType/](https://surmancodehub.github.io/AetherType/)
 
